@@ -1,0 +1,15 @@
+/* Changes the color of all main headings to blue */
+h1 {
+  color: #007bff;
+}
+
+/* Increases the default font size for paragraphs */
+p {
+  font-size: 18px;
+}
+
+/* Adds a border around all images */
+img {
+  border: 3px solid #cccccc;
+  border-radius: 5px;
+}
