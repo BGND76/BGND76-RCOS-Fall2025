@@ -4,7 +4,7 @@ This repository contains the source code for my personal website, built with Git
 
 ## Website Link
 
-You can view the live website here: [https://your-username.github.io](https://your-username.github.io)
+You can view the live website here: [https://bgnd76.github.io]([https://your-username.github.io](https://bgnd76.github.io/BGND76-RCOS-Fall2025/))
 
 ## CSS Features Added
 
